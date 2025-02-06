@@ -19,18 +19,18 @@ Here you will find the report, code and documentation of each experience.
 ---
 
 ## Structure of the Repository
-- **/january**: January project: Dice game "Win if there's none" ✅ Completed
-- **/february**: February project: Wordle variant 🛠️ In progress
-- **/march**: (💡 Idea to define)
-- **/april**: (💡 Idea to define)
-- **/may**: (💡 Idea to define)
-- **/june**: (💡 Idea to define)
-- **/july**: (💡 Idea to define)
-- **/august**: (💡 Idea to define)
-- **/september**: (💡 Idea to define)
-- **/october**: (💡 Idea to define)
-- **/november**: (💡 Idea to define)
-- **/december**: (💡 Idea to define)
+- **/01-gennaio**: January project: Dice game "Win if there's none" ✅ Completed
+- **/02-febbraio**: February project: Wordle variant 🛠️ In progress
+- **/03-marzo**: (💡 Idea to define)
+- **/04-aprile**: (💡 Idea to define)
+- **/05-maggio**: (💡 Idea to define)
+- **/06-giugno**: (💡 Idea to define)
+- **/07-luglio**: (💡 Idea to define)
+- **/08-agosto**: (💡 Idea to define)
+- **/09-settembre**: (💡 Idea to define)
+- **/10-ottobre**: (💡 Idea to define)
+- **/11-novembre**: (💡 Idea to define)
+- **/12-dicembre**: (💡 Idea to define)
 
 ---
 
