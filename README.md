@@ -19,18 +19,18 @@ Qui trovi il resoconto, il codice e la documentazione di ogni esperienza.
 ---
 
 ## Struttura della Repository
-- **/gennaio**: Progetto di gennaio: Gioco di dadi "Vinci se non c'è" ✅Completato
-- **/febbraio**: Progetto di febbraio: Variante di Wordle 🛠In sviluppo
-- **/marzo**: 💡Idea da definire
-- **/aprile**: 💡Idea da definire
-- **/maggio**: 💡Idea da definire
-- **/giugno**: 💡Idea da definire
-- **/luglio**: 💡Idea da definire
-- **/agosto**: 💡Idea da definire
-- **/settembre**: 💡Idea da definire
-- **/ottobre**: 💡Idea da definire
-- **/novembre**: 💡Idea da definire
-- **/dicembre**: 💡Idea da definire
+- **/01-gennaio**: Progetto di gennaio: Gioco di dadi "Vinci se non c'è" ✅Completato
+- **/02-febbraio**: Progetto di febbraio: Variante di Wordle 🛠In sviluppo
+- **/03-marzo**: 💡Idea da definire
+- **/04-aprile**: 💡Idea da definire
+- **/05-maggio**: 💡Idea da definire
+- **/06-giugno**: 💡Idea da definire
+- **/07-luglio**: 💡Idea da definire
+- **/08-agosto**: 💡Idea da definire
+- **/09-settembre**: 💡Idea da definire
+- **/10-ottobre**: 💡Idea da definire
+- **/11-novembre**: 💡Idea da definire
+- **/12-dicembre**: 💡Idea da definire
 
 ---
 
